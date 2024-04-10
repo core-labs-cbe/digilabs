@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digilabs/crypto/3/static/css/main.151ead2b.css",
+    "main.js": "/digilabs/crypto/3/static/js/main.80e1aacf.js",
+    "index.html": "/digilabs/crypto/3/index.html",
+    "main.151ead2b.css.map": "/digilabs/crypto/3/static/css/main.151ead2b.css.map",
+    "main.80e1aacf.js.map": "/digilabs/crypto/3/static/js/main.80e1aacf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.151ead2b.css",
+    "static/js/main.80e1aacf.js"
+  ]
+}

@@ -1,0 +1,46 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Background color for the body */
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.category {
+    flex: 0 1 30%; /* Each category occupies 30% of the container width */
+    background-color: #fff; /* Background color for each category */
+    border-radius: 10px; /* Rounded corners for each category */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for each category */
+    padding: 20px; /* Padding inside each category */
+    margin-right: 20px; /* Space between categories */
+}
+
+h3 {
+    margin-top: 0;
+    color: #333; /* Text color for category headings */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff; /* Default link color */
+}
+
+a:hover {
+    color: #0056b3; /* Link color on hover */
+}

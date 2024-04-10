@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/digilabs/crypto/7/static/css/main.5c6adb11.css",
+    "main.js": "/digilabs/crypto/7/static/js/main.07a97278.js",
+    "static/js/787.847fecfe.chunk.js": "/digilabs/crypto/7/static/js/787.847fecfe.chunk.js",
+    "static/media/kset.mp4": "/digilabs/crypto/7/static/media/kset.0d5ee67d24b098198763.mp4",
+    "static/media/sset.mp4": "/digilabs/crypto/7/static/media/sset.a2199a7d63de91c917a4.mp4",
+    "static/media/1.png": "/digilabs/crypto/7/static/media/1.f2dc0759a903769c0351.png",
+    "static/media/3.png": "/digilabs/crypto/7/static/media/3.88ab4c1f9ad951af2f32.png",
+    "index.html": "/digilabs/crypto/7/index.html",
+    "main.5c6adb11.css.map": "/digilabs/crypto/7/static/css/main.5c6adb11.css.map",
+    "main.07a97278.js.map": "/digilabs/crypto/7/static/js/main.07a97278.js.map",
+    "787.847fecfe.chunk.js.map": "/digilabs/crypto/7/static/js/787.847fecfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6adb11.css",
+    "static/js/main.07a97278.js"
+  ]
+}

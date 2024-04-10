@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digilabs/crypto/6/static/css/main.760221a2.css",
+    "main.js": "/digilabs/crypto/6/static/js/main.cf51c0e0.js",
+    "static/js/787.cbeac434.chunk.js": "/digilabs/crypto/6/static/js/787.cbeac434.chunk.js",
+    "index.html": "/digilabs/crypto/6/index.html",
+    "main.760221a2.css.map": "/digilabs/crypto/6/static/css/main.760221a2.css.map",
+    "main.cf51c0e0.js.map": "/digilabs/crypto/6/static/js/main.cf51c0e0.js.map",
+    "787.cbeac434.chunk.js.map": "/digilabs/crypto/6/static/js/787.cbeac434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760221a2.css",
+    "static/js/main.cf51c0e0.js"
+  ]
+}

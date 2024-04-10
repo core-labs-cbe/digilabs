@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digilabs/crypto/4/static/css/main.f70679ad.css",
+    "main.js": "/digilabs/crypto/4/static/js/main.62037c19.js",
+    "static/js/787.b01d5f7b.chunk.js": "/digilabs/crypto/4/static/js/787.b01d5f7b.chunk.js",
+    "static/media/initial.mp3": "/digilabs/crypto/4/static/media/initial.476d2ca0c12589306f0f.mp3",
+    "static/media/pg3.mp3": "/digilabs/crypto/4/static/media/pg3.b4eeb7c00ade1a356f99.mp3",
+    "static/media/pg4.mp3": "/digilabs/crypto/4/static/media/pg4.e37fac63afd4e86dace4.mp3",
+    "static/media/pg2.mp3": "/digilabs/crypto/4/static/media/pg2.7dbe5ce90565ea450500.mp3",
+    "static/media/rcon.png": "/digilabs/crypto/4/static/media/rcon.8eb96c7752cb8a43b41e.png",
+    "static/media/sbox.jpg": "/digilabs/crypto/4/static/media/sbox.e83c1cedc447be367989.jpg",
+    "index.html": "/digilabs/crypto/4/index.html",
+    "main.f70679ad.css.map": "/digilabs/crypto/4/static/css/main.f70679ad.css.map",
+    "main.62037c19.js.map": "/digilabs/crypto/4/static/js/main.62037c19.js.map",
+    "787.b01d5f7b.chunk.js.map": "/digilabs/crypto/4/static/js/787.b01d5f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f70679ad.css",
+    "static/js/main.62037c19.js"
+  ]
+}
